@@ -93,11 +93,11 @@ figure {
 ```
 And finally lets finish with `widows` and `orphans`. `widows` and `orphans` allow you to control the number of lines at the beginning and end of a page.
 
-A widow is a paragraph-ending line that falls at the beginning of the following page, and is separated from the rest of the text.
+* A widow is a paragraph-ending line that falls at the beginning of the following page, and is separated from the rest of the text.
 
-A orphan is a paragraph-opening line that appears by itself at the bottom of a page, and is separated from the rest of the text.
+* A orphan is a paragraph-opening line that appears by itself at the bottom of a page, and is separated from the rest of the text.
 
-You can control them in CSS by doing the following
+You can control them in CSS by doing the following:
 
 ```css
 p {
@@ -105,5 +105,10 @@ p {
   widows: 3;
 }
 ```
+
+## Prince
+To actually create a PDF using this CSS, you’ll need a user agent that supports it. Like [Prince](https://www.princexml.com/). When you want to use decelerations like `content: counter(page);` or `@page:fist` it wont work when you print directly from your browser. Because that is not how the browser works.
+
+You can use Prince to export your HTML page and turn it into a PDF. When you do this you will see that things like page numbers and page specific styles are being applied.
 
 ## Conclusion
