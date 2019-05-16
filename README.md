@@ -1,6 +1,6 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019 ⚙️
 
-This is my personal `README.md` template. This template contains all possible chapters that I could need during a school or personal project. Chapters can be moved & removed as needed.
+This is my repo for the articles I wrote during the @cmda-minor-web.
 
 ## Table of Contents 🗃
 * [Description](#description-)
