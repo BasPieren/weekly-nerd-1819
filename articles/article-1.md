@@ -6,7 +6,7 @@ My first article will be about printable stylesheets. During the course css-to-t
 ## But Why?
 A printable stylesheet is used when a user prints out a webpage. Situations where this may be applied are for example a confirmation page of a webshop or a recipe from an online cookbook. A lot of times we completely forget about these user scenarios.
 
-See for example this [tweet](https://twitter.com/AaronGustafson/status/788073583528538112/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E788073583528538112&ref_url=https%3A%2F%2Fuxdesign.cc%2Fmedia%2F870afac2877e8d6462bfb5dfe5e1b099%3FpostId%3Df1e6604cfd6) form Aaron Gustafson. He wanted to print out the order details but the page comes out completely messed up!
+See for example this [tweet](https://twitter.com/AaronGustafson/status/788073583528538112/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E788073583528538112&ref_url=https%3A%2F%2Fuxdesign.cc%2Fmedia%2F870afac2877e8d6462bfb5dfe5e1b099%3FpostId%3Df1e6604cfd6) form Aaron Gustafson. He wanted to print out the order details but the page comes out completely messed up! When a page is not setup correctly for print can lead to frustration with enormous images , advertising or navigation elements being printed out
 
 We spent so much time optimising our webpages for devices in all shapes and sizes that we forget about print. Maybe because we rarely do it ourselves or because we see print as a dying medium.
 
@@ -112,3 +112,4 @@ To actually create a PDF using this CSS, you’ll need a user agent that support
 You can use Prince to export your HTML page and turn it into a PDF. When you do this you will see that things like page numbers and page specific styles are being applied.
 
 ## Conclusion
+Printing from CSS his really a bit of a neglected child of web development. While it may not have the top priority like for example responsive design, it really allows you to offer that extra bit of service to your users. With minimal work you can enhance your webpage for another medium you probably have never thought of needed attantion.   
