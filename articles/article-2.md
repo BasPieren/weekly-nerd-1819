@@ -15,13 +15,19 @@ Personally when I write a commit message I use [gitmoji](https://gitmoji.carlosc
 
 When you write a commit you whe choose to start with one of the following:
 
-* **feature:** This is for the cases when you add something new to the application.
+* **feature:** This is for when you create a new feature.
 * **styling:** This is for when you have only been working on CSS.
-* **fix:** If there is something broken and you fixed that.
-* **refactor:** Most of the time you use this when you rewrite a piece of code so that it looks better, or is written in a nicer way.
-* **copy:** Use this if you only change the copy of a piece of text in the application or are writing docs.
+* **fix:** This is for when you fixed a bug.
+* **refactor:** This is for when you rewrite a piece of code so that it looks better, or is written in a nicer way.
+* **copy:** This is for when you change the copy of a piece of text in the application or are writing docs.
 
-Then the `(scope)` can be whatever you are working on. For example `(create-event)`. We took some liberties with [Maikel van Veen](https://github.com/Maikxx) his guidelines but mostly stood by them. The most important thing is that your fellow developers can easly see what you have been working on.
+Then the `(scope)` can be whatever you are working on. For example `(create-event)`. We took some liberties with [Maikel van Veen](https://github.com/Maikxx) his guidelines but mostly followed by them. I personally also make sure some elements match with how they look when writing the commit message. For example:
+
+* Files have their file extention next to them. For example `style.css` or `script.js`.
+* HTML elements are put between `< >`. So for example when you have added a section you write `<section>`.
+* New CSS styling looks like this for example `.shiney-class` or `#important-id`.
+
+The most important thing is that your fellow developers can easly see what you have been working on.
 
 ### Branches
 
