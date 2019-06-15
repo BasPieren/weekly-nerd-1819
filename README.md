@@ -25,7 +25,7 @@ My first article about printable CSS stylesheets which I used during the course 
 
 ### Article 2
 
-[Working With Multiple Developers](./articles/article-1.md)
+[Working With Multiple Developers](./articles/article-2.md)
 
 ### Article 3
 
