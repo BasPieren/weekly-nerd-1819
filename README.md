@@ -4,16 +4,28 @@ This is my repo for the articles I wrote during the @cmda-minor-web.
 
 ## Table of Contents 🗃
 * [Description](#description-)
+* [Weekly Nerd](#weekly-nerd-)
 * [Articles](#articles-)
   * [Article 1](#article-1)
   * [Article 2](#article-2)
   * [Article 3](#article-3)
+* [Weekly Mingle](#weekly-mingle-)
 * [Sources](#sources-)
   * [Honourable Mentions](#honourable-mentions)
 * [Licence](#licence-)
 
 ## Description 📝
 During the @cmda-minor-web we had to deliver 3 articles. They could be about any topic that touches on what you've caught during the lessons or the weekly nerds.
+
+## Weekly Nerd 🗣
+
+* [#1 Brit Wijnmalen - Sketchnotes](./weekly-nerd/weekly-nerd-1.md)
+* [#2 Stephan Hay - I Don't Care What Airbnb Is Doing](./weekly-nerd/weekly-nerd-2.md)
+* [#3 Matise - Leven Na De Minor](./weekly-nerd/weekly-nerd-3.md)
+* [#4 Maaike Klip - Vriendschap Tussen Jou & DUO](./weekly-nerd/weekly-nerd-4.md)
+* [#5 Schiphol Group - Toegangelijkheid](./weekly-nerd/weekly-nerd-5.md)
+* [#6 De Voorhoede - Progressive Enhancmend](./weekly-nerd/weekly-nerd-6.md)
+* [#7 Daan Rongen - Mindset & Skillset](./weekly-nerd/weekly-nerd-7.md)
 
 ## Articles 📖
 This are all the articles I wrote during the @cmda-minor-web · 2018-2019.
@@ -31,6 +43,8 @@ My second article about working in a team of developers.
 ### Article 3
 
 [...](./articles/article-3.md)
+
+## Weekly Mingle ☕️
 
 ## Sources 📚
 This is a list of all the sources I used for the articles:
