@@ -38,7 +38,7 @@ Every time you start working on a new feature you create a feature branch. This 
 
 And last but surtenly not the least important is to activate branch protection. This allows to to set sertain rules for a branch. For example when you are finished working on a feature you can't just merge it with `development` and push it to the repository. You have to create a pull request that has the required number of approving reviews before it is allow to be merged into master.
 
-[Branch Protection](https://i.imgur.com/ixlVbpz.png)
+![Branch Protection](https://i.imgur.com/ixlVbpz.png)
 > Branch Protection Settings
 
 ### Modules
