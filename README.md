@@ -36,7 +36,7 @@ My first article about printable CSS stylesheets which I used during the course 
 [...](./articles/article-2.md)
 
 ### Article 3
-My second article about working in a team of developers.
+My third article about working in a team of developers.
 
 [Working With Multiple Developers](./articles/article-3.md)
 
