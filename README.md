@@ -32,13 +32,13 @@ My first article about printable CSS stylesheets which I used during the course 
 [Printable CSS Stylesheets](./articles/article-1.md)
 
 ### Article 2
-My second article about working in a team of developers.
 
-[Working With Multiple Developers](./articles/article-2.md)
+[...](./articles/article-2.md)
 
 ### Article 3
+My second article about working in a team of developers.
 
-[...](./articles/article-3.md)
+[Working With Multiple Developers](./articles/article-3.md)
 
 ## Weekly Mingle ☕️
 
