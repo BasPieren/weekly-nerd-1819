@@ -24,6 +24,7 @@ My first article about printable CSS stylesheets which I used during the course 
 [Printable CSS Stylesheets](./articles/article-1.md)
 
 ### Article 2
+My second article about working in a team of developers.
 
 [Working With Multiple Developers](./articles/article-2.md)
 
@@ -36,10 +37,11 @@ This is a list of all the sources I used for the articles:
 
   * [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
   * [A Guide To The State Of Print Stylesheets In 2018](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
+  * [Version Control Guidelines](https://github.com/Maikxx/360-wallscope/blob/master/docs/guidelines/VERSION_CONTROL.md)
 
 ### Honourable Mentions
 
-  * None!
+  * [Maikel van Veen](https://github.com/Maikxx)
 
 ## Licence 🔓
 MIT © [Bas Pieren](https://github.com/BasPieren)
