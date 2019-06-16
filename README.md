@@ -1,9 +1,8 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019 ⚙️
 
-This is my repo for the articles I wrote during the @cmda-minor-web.
+This is my repo for for all things releated to the weekly nerd during the @cmda-minor-web.
 
 ## Table of Contents 🗃
-* [Description](#description-)
 * [Weekly Nerd](#weekly-nerd-)
 * [Articles](#articles-)
   * [Article 1](#article-1)
@@ -13,9 +12,6 @@ This is my repo for the articles I wrote during the @cmda-minor-web.
 * [Sources](#sources-)
   * [Honourable Mentions](#honourable-mentions)
 * [Licence](#licence-)
-
-## Description 📝
-During the @cmda-minor-web we had to deliver 3 articles. They could be about any topic that touches on what you've caught during the lessons or the weekly nerds.
 
 ## Weekly Nerd 🗣
 
@@ -47,7 +43,7 @@ My second article about working in a team of developers.
 ## Weekly Mingle ☕️
 
 ## Sources 📚
-This is a list of all the sources I used for the articles:
+This is a list of all the sources I used:
 
   * [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
   * [A Guide To The State Of Print Stylesheets In 2018](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
