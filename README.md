@@ -33,7 +33,7 @@ My first article about printable CSS stylesheets which I used during the course 
 
 ### Article 2
 
-[...](./articles/article-2.md)
+[How To Deal With Complexity](./articles/article-2.md)
 
 ### Article 3
 My third article about working in a team of developers.
