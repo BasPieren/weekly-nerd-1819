@@ -32,6 +32,7 @@ My first article about printable CSS stylesheets which I used during the course 
 [Printable CSS Stylesheets](./articles/article-1.md)
 
 ### Article 2
+My second article about dealing with complexity.
 
 [How To Deal With Complexity](./articles/article-2.md)
 
