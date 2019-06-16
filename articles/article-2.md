@@ -1,9 +1,9 @@
 [< Back](../README.md)
 
 # Working With Multiple Developers
-When you are a developer you probably have heard/worked with Git and Github. Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency ( Git, 2019 ). Github is a software development platform that is build around Git together with some of its own functionalities. 
+When you are a developer you probably have heard/worked with **Git** and **Github**. Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency ( Git, 2019 ). Github is a software development platform that is build around Git together with some of its own functionalities. 
 
-Now I got a couple of years of experience working with Git and Github but this was always on my own. During the last project in de @cmda-minor-web I started working on a project with three other people. This provided us with some healthy challenges surrounding Git and Github. 
+Now I got a couple of years of experience working with Git and Github but this was always on my own. During the last project in de [@cmda-minor-web](https://github.com/cmda-minor-web) I started working on a project with three other people. This provided us with some healthy challenges surrounding Git and Github. 
 
 In this article I will explain why and how we tackled some of these challenges and help prepare ourselves for a real life environment.
 
@@ -15,11 +15,11 @@ Personally when I write a commit message I use [gitmoji](https://gitmoji.carlosc
 
 When you write a commit you we choose to start with one of the `action`:
 
-* **feature:** This is for when you create a new feature.
-* **styling:** This is for when you have been working on CSS.
-* **fix:** This is for when you fixed a bug.
-* **refactor:** This is for when you rewrite a piece of code so that it looks better, or is written in a nicer way.
-* **copy:** This is for when you change the copy of a piece of text in the application or are writing docs.
+* **feature(scope):** This is for when you create a new feature.
+* **styling(scope):** This is for when you have been working on CSS.
+* **fix(scope):** This is for when you fixed a bug.
+* **refactor(scope):** This is for when you rewrite a piece of code so that it looks better, or is written in a nicer way.
+* **copy(scope):** This is for when you change the copy of a piece of text in the application or are writing docs.
 
 Then comes the `(scope)`, which can be whatever you are working on. For example `(create-event)` or `(login)`. We took some liberties with [Maikel van Veen](https://github.com/Maikxx) his guidelines but mostly followed by them. 
 
@@ -36,4 +36,12 @@ When it comes to creating and working with branches there are a couple of things
 
 Every time you start working on a new feature you create a feature branch. This branch looks something like `feature/brach-name`. This way you can work in your own separate 'environment' without having to worry too much about your fellow developers.
 
+And last but surtenly not the least important is to activate branch protection. This allows to to set sertain rules for a branch. For example when you are finished working on a feature you can't just merge it with `development` and push it to the repository. You have to create a pull request that has the required number of approving reviews before it is allow to be merged into master.
+
+[Branch Protection](https://i.imgur.com/ixlVbpz.png)
+> Branch Protection Settings
+
 ### Modules
+Having seperate branches is a good first step in avoiding unnecessary problems. But when you start to pair branches with **modules** is when you start being really producitve. Modules allow you to seperate your code into different files that get imported into the main file like `app.js`, `script.js` or `style.css`. When you do this you and your team are able to almost entirly eliminate merge conflicts because you are all working in seperate files so you almost never have to work in the same file at the same time. 
+
+## Conclusion
