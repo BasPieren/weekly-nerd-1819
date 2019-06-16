@@ -13,15 +13,17 @@ When working with Git these are some of the most important things you will be wo
 ### Commit
 Personally when I write a commit message I use [gitmoji](https://gitmoji.carloscuesta.me/). This adds a emoji infront of your commit so you can show what kind of commit it is. ✨ is a new feature and 📝 is for wrting new docs for example. Now because this is more of a personal preference we used some guide lines that [Maikel van Veen](https://github.com/Maikxx) setup which came pretty close to what I was already doing. [Version Control Guidelines](https://github.com/Maikxx/360-wallscope/blob/master/docs/guidelines/VERSION_CONTROL.md) sets a clear set of rules as to how your commits (and branches) should look. So something like `action(scope): description`.
 
-When you write a commit you whe choose to start with one of the following:
+When you write a commit you whe choose to start with one of the `action`:
 
 * **feature:** This is for when you create a new feature.
-* **styling:** This is for when you have only been working on CSS.
+* **styling:** This is for when you have been working on CSS.
 * **fix:** This is for when you fixed a bug.
 * **refactor:** This is for when you rewrite a piece of code so that it looks better, or is written in a nicer way.
 * **copy:** This is for when you change the copy of a piece of text in the application or are writing docs.
 
-Then the `(scope)` can be whatever you are working on. For example `(create-event)`. We took some liberties with [Maikel van Veen](https://github.com/Maikxx) his guidelines but mostly followed by them. I personally also make sure some elements match with how they look when writing the commit message. For example:
+Then comes the `(scope)`, which can be whatever you are working on. For example `(create-event)` or `(login)`. We took some liberties with [Maikel van Veen](https://github.com/Maikxx) his guidelines but mostly followed by them. 
+
+Then comes the `description`. I personally always make sure elements match with how they look when writing the `description`. For example:
 
 * Files have their file extention next to them. For example `style.css` or `script.js`.
 * HTML elements are put between `< >`. So for example when you have added a section you write `<section>`.
@@ -30,4 +32,8 @@ Then the `(scope)` can be whatever you are working on. For example `(create-even
 The most important thing is that your fellow developers can easly see what you have been working on.
 
 ### Branches
+When it comes to creating and working with branches their are a couple of things you want to do. First create a hierarchy for your branches. Let me explain. You dont want to be working directly on the `master` branch because this is the branch that will always be live. You want everything that is on here to be working 100%. So you create a branch called `development`. This is the branch that you and your team will be working on. But you cant all start working on the same branch, this would cause an unending amount of merge confilcts. 
 
+Every time you start working on a new feature you create a feature branch. This branch lookings something like `feature/brach-name`. This way you can work in your own seperate 'environment' without haveing to worry to much about your fellow developers.
+
+### Modules
