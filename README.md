@@ -5,11 +5,11 @@ This is my repo for for all things releated to the weekly nerd during the @cmda-
 ## Table of Contents 🗃
 
 - [Weekly Nerd](#weekly-nerd-)
+- [Weekly Mingle](#weekly-mingle-)
 - [Articles](#articles-)
   - [Article 1](#article-1)
   - [Article 2](#article-2)
   - [Article 3](#article-3)
-- [Weekly Mingle](#weekly-mingle-)
 - [Sources](#sources-)
   - [Honourable Mentions](#honourable-mentions)
 - [Licence](#licence-)
@@ -23,6 +23,17 @@ This is my repo for for all things releated to the weekly nerd during the @cmda-
 - [#5 Schiphol Group - Toegangelijkheid](./weekly-nerd/weekly-nerd-5.md)
 - [#6 De Voorhoede - Progressive Enhancmend](./weekly-nerd/weekly-nerd-6.md)
 - [#7 Daan Rongen - Mindset & Skillset](./weekly-nerd/weekly-nerd-7.md)
+
+## Weekly Mingle ☕️
+
+- [#1 Elastique](./weekly-mingle/weekly-mingle-1.md)
+- [#2 Valtech Amsterdam](./weekly-mingle/weekly-mingle-2.md)
+- [#3 Mirabeau Amsterdam](./weekly-mingle/weekly-mingle-3.md)
+- [#4 Q42 Amsterdam](./weekly-mingle/weekly-mingle-4.md)
+- [#5 Matise](./weekly-mingle/weekly-mingle-5.md)
+- [#6 ICATT interactive media](./weekly-mingle/weekly-mingle-6.md)
+- [#7 Lifely](./weekly-mingle/weekly-mingle-7.md)
+- [#8 Dept Amsterdam](./weekly-mingle/weekly-mingle-7.md)
 
 ## Articles 📖
 
@@ -45,17 +56,6 @@ My second article about dealing with complexity.
 My third article about working in a team of developers.
 
 [Working With Multiple Developers](./articles/article-3.md)
-
-## Weekly Mingle ☕️
-
-- [#1 Elastique](./weekly-mingle/weekly-mingle-1.md)
-- [#2 Valtech Amsterdam](./weekly-mingle/weekly-mingle-2.md)
-- [#3 Mirabeau Amsterdam](./weekly-mingle/weekly-mingle-3.md)
-- [#4 Q42 Amsterdam](./weekly-mingle/weekly-mingle-4.md)
-- [#5 Matise](./weekly-mingle/weekly-mingle-5.md)
-- [#6 ICATT interactive media](./weekly-mingle/weekly-mingle-6.md)
-- [#7 Lifely](./weekly-mingle/weekly-mingle-7.md)
-- [#8 Dept Amsterdam](./weekly-mingle/weekly-mingle-7.md)
 
 ## Sources 📚
 
