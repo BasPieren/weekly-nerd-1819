@@ -33,7 +33,7 @@ This is my repo for for all things releated to the weekly nerd during the @cmda-
 - [#5 Matise](./weekly-mingle/weekly-mingle-5.md)
 - [#6 ICATT interactive media](./weekly-mingle/weekly-mingle-6.md)
 - [#7 Lifely](./weekly-mingle/weekly-mingle-7.md)
-- [#8 Dept Amsterdam](./weekly-mingle/weekly-mingle-7.md)
+- [#8 Dept Amsterdam](./weekly-mingle/weekly-mingle-8.md)
 
 ## Articles 📖
 
